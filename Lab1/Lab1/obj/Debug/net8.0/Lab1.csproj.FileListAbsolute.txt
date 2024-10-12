@@ -1,0 +1,4 @@
+C:\Users\Elijah Soul\Desktop\KNU MATERAL\3курс 1сем\кросплатформа\Lab1\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijah Soul\Desktop\KNU MATERAL\3курс 1сем\кросплатформа\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Elijah Soul\Desktop\KNU MATERAL\3курс 1сем\кросплатформа\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+C:\Users\Elijah Soul\Desktop\KNU MATERAL\3курс 1сем\кросплатформа\Lab1\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
