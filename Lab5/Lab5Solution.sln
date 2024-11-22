@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5WebApp", "Lab5WebApp\Lab5WebApp.csproj", "{3BBF2305-AB2C-4A35-8930-48F897C8A696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5Library", "Lab5Library\Lab5Library.csproj", "{2B0EAE0A-DB17-4293-A338-18C5FC71FEBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabsLibrary", "LabsLibrary\LabsLibrary.csproj", "{BD3B392F-FD7B-4EC4-98F8-C4583F6ECDA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BBF2305-AB2C-4A35-8930-48F897C8A696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBF2305-AB2C-4A35-8930-48F897C8A696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBF2305-AB2C-4A35-8930-48F897C8A696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBF2305-AB2C-4A35-8930-48F897C8A696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0EAE0A-DB17-4293-A338-18C5FC71FEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0EAE0A-DB17-4293-A338-18C5FC71FEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0EAE0A-DB17-4293-A338-18C5FC71FEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0EAE0A-DB17-4293-A338-18C5FC71FEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3B392F-FD7B-4EC4-98F8-C4583F6ECDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3B392F-FD7B-4EC4-98F8-C4583F6ECDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3B392F-FD7B-4EC4-98F8-C4583F6ECDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3B392F-FD7B-4EC4-98F8-C4583F6ECDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

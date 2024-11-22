@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Welcome to Lab5WebApp</h1>
+<p>This application provides access to Lab1, Lab2, and Lab3 functionality. Please log in or register to continue.</p>
+
+<a href="/Account/Register">Go to Register</a>
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+<a href="/Account/Login">Go to Login</a>
+<a href="/Profile">Go to Profile</a>
+
+@{
+    ViewData["Title"] = "Labs";
+}
+
+<h2>Available Labs</h2>
+
+<div>
+    <a asp-controller="Lab1" asp-action="Index" class="btn btn-primary">Go to Lab 1</a>
+    <a asp-controller="Lab2" asp-action="Index" class="btn btn-secondary">Go to Lab 2</a>
+    <a asp-controller="Lab3" asp-action="Index" class="btn btn-success">Go to Lab 3</a>
+</div>

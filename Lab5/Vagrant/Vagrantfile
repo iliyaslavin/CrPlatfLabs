@@ -1,0 +1,17 @@
+Vagrant.configure("2") do |config|
+    config.vm.box = "ubuntu/focal64"
+  
+    # Налаштування машини
+    config.vm.network "private_network", type: "dhcp"
+    config.vm.hostname = "lab5-webapp"
+  
+    # Синхронізація папок
+    config.vm.synced_folder ".", "/home/vagrant/app"
+  
+    # Налаштування скрипта для автоматизації
+    config.vm.provision "shell", path: "provision-linux.sh"
+  
+    # Порти
+    config.vm.network "forwarded_port", guest: 7214, host: 7214 
+  end
+  
