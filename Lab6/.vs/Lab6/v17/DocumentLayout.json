@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\data\\lab6dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:data\\lab6dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\lab6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:lab6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\controllers\\engineerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:controllers\\engineerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\configurations\\assetconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:configurations\\assetconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\lab6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:lab6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\configurations\\engineerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:configurations\\engineerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\thirdpartycompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\thirdpartycompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\configurations\\partconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:configurations\\partconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\skillrequiredtofix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\skillrequiredtofix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\reffaultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\reffaultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\refcompanytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\refcompanytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\partfault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\partfault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\maintenanceengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\maintenanceengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\maintenancecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\maintenancecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\faultlogpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\faultlogpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\faultlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\faultlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\engineervisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\engineervisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\engineerskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\engineerskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\assetpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\assetpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|c:\\users\\elijah soul\\desktop\\knu materal\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\labs\\lab6\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF279411-8FE1-403F-A767-A3FB47D721D6}|Lab6.csproj|solutionrelative:models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:35:45.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab6",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Lab6.csproj",
+              "RelativeDocumentMoniker": "Lab6.csproj",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Lab6.csproj",
+              "RelativeToolTip": "Lab6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T19:05:24.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:14:09.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab6DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Data\\Lab6DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Lab6DbContext.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Data\\Lab6DbContext.cs",
+              "RelativeToolTip": "Data\\Lab6DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:14:17.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssetConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Configurations\\AssetConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\AssetConfiguration.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Configurations\\AssetConfiguration.cs",
+              "RelativeToolTip": "Configurations\\AssetConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:44:58.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lab6.http",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Lab6.http",
+              "RelativeDocumentMoniker": "Lab6.http",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Lab6.http",
+              "RelativeToolTip": "Lab6.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-22T19:05:02.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EngineerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Configurations\\EngineerConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\EngineerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Configurations\\EngineerConfiguration.cs",
+              "RelativeToolTip": "Configurations\\EngineerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:45:41.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssetsController.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "Controllers\\AssetsController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAgwG0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:41:20.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Controllers\\PartsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PartsController.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Controllers\\PartsController.cs",
+              "RelativeToolTip": "Controllers\\PartsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:42:12.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EngineersController.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Controllers\\EngineersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EngineersController.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Controllers\\EngineersController.cs",
+              "RelativeToolTip": "Controllers\\EngineersController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:43:27.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T18:10:20.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThirdPartyCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\ThirdPartyCompany.cs",
+              "RelativeDocumentMoniker": "Models\\ThirdPartyCompany.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\ThirdPartyCompany.cs",
+              "RelativeToolTip": "Models\\ThirdPartyCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:08:13.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Configurations\\PartConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\PartConfiguration.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Configurations\\PartConfiguration.cs",
+              "RelativeToolTip": "Configurations\\PartConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:45:28.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\Staff.cs",
+              "RelativeToolTip": "Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:09:38.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SkillRequiredToFix.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\SkillRequiredToFix.cs",
+              "RelativeDocumentMoniker": "Models\\SkillRequiredToFix.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\SkillRequiredToFix.cs",
+              "RelativeToolTip": "Models\\SkillRequiredToFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:11:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\Skill.cs",
+              "RelativeToolTip": "Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:10:07.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RefFaultStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\RefFaultStatus.cs",
+              "RelativeDocumentMoniker": "Models\\RefFaultStatus.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\RefFaultStatus.cs",
+              "RelativeToolTip": "Models\\RefFaultStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:09:31.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RefCompanyType.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\RefCompanyType.cs",
+              "RelativeDocumentMoniker": "Models\\RefCompanyType.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\RefCompanyType.cs",
+              "RelativeToolTip": "Models\\RefCompanyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:08:22.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PartFault.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\PartFault.cs",
+              "RelativeDocumentMoniker": "Models\\PartFault.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\PartFault.cs",
+              "RelativeToolTip": "Models\\PartFault.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:11:24.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\Part.cs",
+              "RelativeDocumentMoniker": "Models\\Part.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\Part.cs",
+              "RelativeToolTip": "Models\\Part.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:08:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MaintenanceEngineer.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\MaintenanceEngineer.cs",
+              "RelativeDocumentMoniker": "Models\\MaintenanceEngineer.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\MaintenanceEngineer.cs",
+              "RelativeToolTip": "Models\\MaintenanceEngineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:11:36.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MaintenanceContract.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\MaintenanceContract.cs",
+              "RelativeDocumentMoniker": "Models\\MaintenanceContract.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\MaintenanceContract.cs",
+              "RelativeToolTip": "Models\\MaintenanceContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:08:27.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FaultLogPart.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\FaultLogPart.cs",
+              "RelativeDocumentMoniker": "Models\\FaultLogPart.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\FaultLogPart.cs",
+              "RelativeToolTip": "Models\\FaultLogPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:09:25.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FaultLog.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\FaultLog.cs",
+              "RelativeDocumentMoniker": "Models\\FaultLog.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\FaultLog.cs",
+              "RelativeToolTip": "Models\\FaultLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:09:18.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EngineerVisit.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\EngineerVisit.cs",
+              "RelativeDocumentMoniker": "Models\\EngineerVisit.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\EngineerVisit.cs",
+              "RelativeToolTip": "Models\\EngineerVisit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:10:12.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EngineerSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\EngineerSkill.cs",
+              "RelativeDocumentMoniker": "Models\\EngineerSkill.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\EngineerSkill.cs",
+              "RelativeToolTip": "Models\\EngineerSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:09:50.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssetPart.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\AssetPart.cs",
+              "RelativeDocumentMoniker": "Models\\AssetPart.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\AssetPart.cs",
+              "RelativeToolTip": "Models\\AssetPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:09:13.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "Models\\Asset.cs",
+              "ToolTip": "C:\\Users\\Elijah Soul\\Desktop\\KNU MATERAL\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u043A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0430\\Labs\\Lab6\\Models\\Asset.cs",
+              "RelativeToolTip": "Models\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:08:33.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
